@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TipTime" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/green_800</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryContainer">@color/green_200</item>
+        <item name="colorOnPrimaryContainer">@color/green_dark</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/gray_800</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="colorSecondaryContainer">@color/gray_200</item>
+        <item name="colorOnSecondaryContainer">@color/green_dark</item>
+    </style>
+
+    <style name="Theme.TipTime" parent="Base.Theme.TipTime" />
+</resources>
